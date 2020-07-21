@@ -1,0 +1,25 @@
+printReceipt:
+    P: 1mins
+    D: 1mins
+    C: It's simple and have little logic code
+    A: 
+mapTheBarcodes:
+    P: 20mins
+    D: 15mins
+    C: It have many logic, but all are simple
+    A: 
+calculateSubtotal:
+    P: 2mins
+    D: 2mins
+    C: It's simple and have little logic code
+    A: 
+getCommodityInfoBybarcode:
+    P: 5mins
+    D: 5mins
+    C: It's simple and have little logic code
+    A: 
+printTheOutput:
+    P: 5mins
+    D: 10mins
+    C: It's simple but I make some mistake with my carelessness
+    A: Be careful when coding
